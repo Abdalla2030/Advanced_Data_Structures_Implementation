@@ -1,8 +1,8 @@
 # Advanced_Data_Structures_Implementation
-Implementation of some data structures like BTree, suffix trie and suffix array
+Implementation of some data structures like B-Tree, suffix trie and suffix array
 
 ***************************************************************************************************
-Assignment 1  ( BTree )
+Assignment 1  ( B-Tree )
 
 * Implement a BTree data structure as described in our lecture with O(n) space and O(log n) Insert() and O(n) Print() operations.
 * Use only standard C++, such that the following main() works. You are not allowed to modify the main().
