@@ -2,7 +2,7 @@
 Implementation of some data structures like B-Tree, suffix trie and suffix array
 
 ***************************************************************************************************
-Assignment 1  ( B-Tree )
+### Assignment-1  ( B-Tree )
 
 * Implement a BTree data structure as described in our lecture with O(n) space and O(log n) Insert() and O(n) Print() operations.
 * Use only standard C++, such that the following main() works. You are not allowed to modify the main().
@@ -67,7 +67,7 @@ int main(){
 }
 ```
 ***************************************************************************************************
-Assignment 2  ( Suffix Trie )
+### Assignment-2  ( Suffix Trie )
 
 * Implement a Suffix Trie data structure as described in our lecture with Search() operation for any substring.
 * Each node in the trie must contain a linked list where each list element contains a character and child node pointer.
@@ -89,7 +89,7 @@ int main(){
 }
 ```
 ***************************************************************************************************
-Assignment 2  ( Suffix Array )
+### Assignment-3  ( Suffix Array )
 
 * Implement a Suffix Array prefix doubling O(n (log n)^2) construction algorithm as described in our lecture.
 * Do not use string class, use char arrays.
